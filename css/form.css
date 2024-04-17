@@ -1,0 +1,36 @@
+   /* Custom styles */
+   body {
+       background-color: #f8f9fa;
+   }
+
+   .container {
+       padding-top: 20px;
+   }
+
+   .main {
+       background-color: #fff;
+       border-radius: 10px;
+       box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+       padding: 20px;
+       margin-bottom: 20px;
+   }
+
+   .form-label {
+       font-weight: 600;
+   }
+
+
+   /* .main:nth-child(2) */
+   .width {
+       width: 30%;
+       float: right;
+   }
+
+   .width8hu {
+       width: calc(100% - 34.5%);
+       float: right;
+   }
+
+   .d-flex {
+       display: unset !important;
+   }
